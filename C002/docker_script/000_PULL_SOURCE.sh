@@ -1,1 +1,1 @@
-git pull https://github.com/parkseungchul/R100
+git pull https://github.com/parkseungchul/comment
